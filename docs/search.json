@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "saraorofino.github.io",
+    "title": "sara orofino",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "welcome\nMy name is Sara and I work as a project scientist at the University of California, Santa Barbara. Professionally, I’m interested in the role of data and technology in supporting decision-making, improving marine conservation, and enhancing sustainable and equitable fisheries.\nAs a person, I love adventuring outside, sunset surfs, and I used to work as a PADI Divemaster in Thailand and the Bahamas. You can find me wherever there’s big trees, wildflowers, small waves, or a taco shop 🌲 🌻 🌊 🌮\nPoke around my website to learn more!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "research\nI work as a project scientist at the Environmental Markets Lab at University of California, Santa Barbara. My current research includes:\n\n🔭 Investigating how big data can support sustainable fisheries by leveraging satellite-based vessel tracking (i.e. Automatic Identification Systems), Electronic Monitoring, and Synthetic Aperature Radar in research related to bycatch mitigation, fisheries transparency, and protected area design.\n\nCheck out emLab’s GitHub for repositories related to our published research.\n\n🗺️ Mapping global patterns of shark mortality and analyzing the effectiveness of shark fishing and finning regulations on mortality.\n🖥️ co-developing stagg:: a data pre-processing R package for climate impact analysis.\n\nAvailable at https://github.com/tcarleton/stagg\n\n\nPrevious:\n\n🐟 Ocean Health Index fellow at the National Center for Ecological Analysis and Synthesis, working with partners at the Nature Conservancy to complete an Ocean Health Index (OHI) assessment of Palmyra Atoll.\n🐠 Oceanographic intern with the Coral Reef Advisory Group collecting and analyzing data to develop a management plan for coral reefs in the National Park of American Samoa.\n\n\n\neducation\nMESM Marine Resource Management & Data Science\nUniversity of California Santa Barbara | Santa Barbara, CA | 2020\nBS Zoology\nOregon State University | Corvallis, OR | 2014\n\n\nleisure\nIn my free time I enjoy exploring with friends from hiking local trails, to finding secret waves, getting lost in the forest and everything in between. I love the first sun of spring and feeling the warmth sink all the way to my bones, the sound rocks make as the ocean waves recede, and the smell of a Redwood forest."
   }
 ]

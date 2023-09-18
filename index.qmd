@@ -1,11 +1,32 @@
 ---
-title: "saraorofino.github.io"
+title: "sara orofino"
+subtitle: "she/her/hers"
+image: images/sara_cropped.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sara-orofino
+    - icon: github
+      text: GitHub
+      href: https://github.com/saraorofino
+    - icon: envelope
+      text: Email
+      href: mailto:saraorofino@ucsb.edu
 ---
 
-This is a Quarto website.
+<!-- ::: {.small-text} -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### welcome
 
-```{r}
-1 + 1
-```
+My name is Sara and I work as a project scientist at the University of California, Santa Barbara. Professionally, I'm interested in the role of data and technology in supporting decision-making, improving marine conservation, and enhancing sustainable and equitable fisheries.
+
+As a person, I love adventuring outside, sunset surfs, and I used to work as a PADI Divemaster in Thailand and the Bahamas. You can find me wherever there's big trees, wildflowers, small waves, or a taco shop 🌲 🌻 🌊 🌮
+
+Poke around my website to learn more!
+
+<!-- ::: -->

@@ -3,17 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "saraorofino.github.io"
+  title: "Sara Orofino"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - icon: github
+        href: https://github.com/saraorofino
+      - icon: twitter
+        href: https://twitter.com/slorofino
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sara-orofino
+      - icon: envelope
+        href: mailto:saraorofino@ucsb.edu
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    page-layout: full
+    sidebar: false
+    theme: theme.scss
+    #css: styles.css
+    mainfont: Nunito Sans
     toc: true
 
 editor: visual

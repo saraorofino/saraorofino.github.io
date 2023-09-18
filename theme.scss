@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Nunito+Sans:opsz,wght@6..12,300;6..12,600&family=Nunito:wght@300;700&display=swap');
+
+// Colors
+$cream: #FDFBF7;
+$sand: #E7E1D2; 
+$dark-blue-grey: #31708E;
+$blue-grey: #5ba4c6;
+$grey: #64605F;
+$black: #000000;
+$orange: #E09051; 
+$green: #687864;
+$magenta: #8E314A;
+
+// Base document colors
+$navbar-bg: $cream;
+$navbar-fg: $dark-blue-grey; 
+$navbar-hl: $orange; 
+$body-bg: $sand;
+$body-color: $dark-blue-grey;
+$footer-bg: $cream; 
+$link-color: $orange;
+
+// Inline code
+$code-bg: $cream;
+$code-color: $magenta; 
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 3px;
+  font-weight: 700;
+  color: $dark-blue-grey;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+body {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 19.5px;
+  color: $grey;
+}
+
+/* CLASS SELECTORS (self-defined) */
+
+// button hover styling
+.btn:hover {
+  color: $sand;
+  background-color: $orange;
+  border-color: $dark-blue-grey;
+}
