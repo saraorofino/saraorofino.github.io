@@ -1,0 +1,23 @@
+---
+title: "publications"
+title-block-banner: true
+---
+
+### **peer reviewed**
+
+
+Morse, M., McCauley, D., **Orofino, S.**, Stears, K., Mladjov, S., Caselle, J., Clavelle, T., & Freedman, R. (2024). Preferential selection of marine protected areas by the recreational scuba diving industry. *Marine Policy, 159*, 105908. <https://doi.org/10.1016/j.marpol.2023.105908>   
+
+Paolo, F.S., Kroodsma, D., Raynor, J., Hochberg, T., Davis, P., Cleary, J., Marsaglia, L., **Orofino, S.**, Thomas, C. & Halpin. P. (2024). Satellite mapping reveals extensive industrial activity at sea. *Nature, 625*, 85-91. <https://doi.org/10.1038/s41586-023-06825-8>      
+
+Worm, B., **Orofino, S.**, Burns, E.S., D’Costa, N.G., Feitosa, L.M., Palomares, L.M.D., Schiller, L., & Bradley, D. (2024). Shark mortality still rising despite widespread regulatory change. *Science, 383*(6679), 225-230. <https://doi.org/10.1126/science.adf8984>  
+
+**Orofino, S.**, McDonald, G., Mayorga, J., Costello, C., & Bradley, D. (2023). Opportunities and challenges for improving fisheries management through greater transparency in vessel tracking. *ICES Journal of Marine Science, 80*(4), 675-689. <https://doi.org/10.1093/icesjms/fsad008>   
+
+
+### **in review**
+
+
+Feitosa, L.M., Caughman, A.M., D'Costa, N., **Orofino, S.**, Burnes, E.S., & Bradley, D. Retention prohibitions have limited scope for improving the stock status of shark species experiencing overfishing. Under review at *Fish & Fisheries*. 
+
+Lidell, T., Boser, A.S., **Orofino, S.**, Mangin, T., & Carleton, T. `stagg::` a data pre-processing R package for climate impact analysis. Under review at *Environmental Modeling and Software*. 

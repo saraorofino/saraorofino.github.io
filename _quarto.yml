@@ -10,6 +10,8 @@ website:
         text: home
       - href: about.qmd
         text: about
+      - href: publications.qmd
+        text: publications
       - icon: github
         href: https://github.com/saraorofino
       - icon: twitter
