@@ -14,6 +14,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/saraorofino
+    - icon: "{{< iconify ai googlescholar >}}"
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=LS_MyhkAAAAJ
     - icon: envelope
       text: Email
       href: mailto:saraorofino@ucsb.edu
@@ -23,9 +26,9 @@ about:
 
 ### welcome
 
-My name is Sara and I work as a project scientist at the University of California, Santa Barbara. Professionally, I'm interested in the role of data and technology in supporting decision-making, improving marine conservation, and enhancing sustainable and equitable fisheries.
+My name is Sara and I work as an ocean scientist at The Nature Conservancy (TNC) in California. Professionally, my work focuses on using remote sensing and near-real time data analytics to support decision-making and unlock new opportunities for policy, research, and action.
 
-As a person, I love adventuring outside, sunset surfs, and I used to work as a PADI Divemaster in Thailand and the Bahamas. You can find me wherever there's big trees, wildflowers, small waves, or a taco shop 🌲 🌻 🌊 🌮
+As a person, I love reading, getting outside, sunset surfs, and I used to work as a PADI Divemaster in Thailand and the Bahamas. You can find me wherever there's big trees, wildflowers, small waves, or a taco shop 🌲 🌻 🌊 🌮
 
 Poke around my website to learn more!
 

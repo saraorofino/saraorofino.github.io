@@ -5,19 +5,15 @@ title-block-banner: true
 
 ### **research**
 
-I work as a project scientist at the [Environmental Markets Lab](https://emlab.ucsb.edu/) at University of California, Santa Barbara. My current research includes:
-
--   🔭 Investigating how big data can support sustainable fisheries by leveraging satellite-based vessel tracking (i.e. Automatic Identification Systems), Electronic Monitoring, and Synthetic Aperature Radar in research related to bycatch mitigation, fisheries transparency, and protected area design.
-
-    -   Check out [emLab's GitHub](https://github.com/emlab-ucsb) for repositories related to our published research.
-
--   🗺️ Mapping global patterns of shark mortality and analyzing the effectiveness of shark fishing and finning regulations on mortality.
-
--   🖥️ co-developing `stagg::` a data pre-processing R package for climate impact analysis.
-
-    -   Available at [https://github.com/tcarleton/stagg](#0)
+I work as an ocean scientist on the California Oceans Program at [The Nature Conservancy](https://www.nature.org/en-us/about-us/where-we-work/united-states/california/). I provide scientific leadership and technical expertise across the program ensuring our strategies are data-driven and grounded in the best available science. Much of my work focuses on using remote sensing and near-real time data analytics to unlock conservation opportunities including addressing statewide plastic pollution, accelerating the pace and scale of ecosystem restoration, and addressing unsustainable bycatch in Pacific fisheries.
 
 Previous:
+
+-   🔭 Project Researcher at the [Environmental Markets Lab](https://emlab.ucsb.edu/) at UC Santa Barbara, investigating the role of big data and technology in bycatch mitigation, fisheries transparency, and protected area design.
+
+-   🖥️ co-developer of `stagg::` a data pre-processing R package for climate impact analysis.
+
+    -   Available at [https://github.com/tcarleton/stagg](#0)
 
 -   🐟 Ocean Health Index fellow at the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/), working with partners at the Nature Conservancy to complete an [Ocean Health Index (OHI) assessment](https://raw.githack.com/OHI-4site/pal-scores/master/documents/methods-results/Supplement.html) of Palmyra Atoll.
 
